@@ -1,0 +1,4 @@
+OS info is 
+uname_result(system='Darwin', node='Air-User', release='21.5.0', version='Darwin Kernel Version 21.5.0: Tue Apr 26 21:08:22 PDT 2022; root:xnu-8020.121.3~4/RELEASE_X86_64', machine='x86_64')
+
+Python version is 3.10.5 (v3.10.5:f377153967, Jun  6 2022, 12:36:10) [Clang 13.0.0 (clang-1300.0.29.30)] ('64bit', '')

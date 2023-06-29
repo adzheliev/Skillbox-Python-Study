@@ -1,0 +1,17 @@
+[
+  {
+    "model": "shopapp.order",
+    "pk": 1,
+    "fields": {
+      "delivery_address": "Test order for curator",
+      "promocode": "iwillneverdothishome",
+      "created_at": "2023-03-27T18:18:20.827Z",
+      "user": 1,
+      "products": [
+        1,
+        2,
+        7
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Houses List</title>
+</head>
+<body>
+    <h1>Houses list</h1>
+    {% if houses %}
+        <div>
+            {% for house in houses %}
+                <div>
+                    <p>Name: {{ house.title }}</p>
+                    <p>Description: {{ house.description }}</p>
+                    <p>Price: {{ house.price }}</p>
+                    <p>Type: {{ house.type }}</p>
+                    <p>Rooms: {{ house.rooms }}</p>
+                    <br>
+                </div>
+            {% endfor %}
+        </div>
+    {% else %}
+        <h3>No houses added yet</h3>
+    {% endif %}
+</body>
+</html>

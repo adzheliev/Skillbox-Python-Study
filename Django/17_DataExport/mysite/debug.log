@@ -1,0 +1,694 @@
+Watching for file changes with StatReloader
+Запрошена страница со списком статей
+/Users/user/PycharmProjects/Django homework/15/15_DatabasesAdvanced/mysite/mysite/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/user/PycharmProjects/Django homework/15/15_DatabasesAdvanced/mysite/mysite/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/user/PycharmProjects/Django homework/15/15_DatabasesAdvanced/mysite/mysite/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/user/PycharmProjects/Django homework/15/15_DatabasesAdvanced/mysite/mysite/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Запрошена страница со списком статей
+Not Found: /
+/Users/user/PycharmProjects/Django homework/15/15_DatabasesAdvanced/mysite/mysite/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Запрошена страница со списком статей
+Not Found: /
+Starting new HTTPS connection (1): o4505193330704384.ingest.sentry.io:443
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+Not Found: /
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+Internal Server Error: /sentry-debug/
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sentry_sdk/integrations/django/views.py", line 85, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/user/PycharmProjects/Django homework/15/15_DatabasesAdvanced/mysite/mysite/urls.py", line 26, in trigger_error
+    division_by_zero = 1 / 0
+ZeroDivisionError: division by zero
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+Internal Server Error: /sentry-debug/
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sentry_sdk/integrations/django/views.py", line 85, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Users/user/PycharmProjects/Django homework/15/15_DatabasesAdvanced/mysite/mysite/urls.py", line 26, in trigger_error
+    division_by_zero = 1 / 0
+ZeroDivisionError: division by zero
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+/Users/user/PycharmProjects/Django homework/15/15_DatabasesAdvanced/mysite/mysite/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Запрошена страница со списком статей
+Starting new HTTPS connection (1): o4505193330704384.ingest.sentry.io:443
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+/Users/user/PycharmProjects/Django homework/15/15_DatabasesAdvanced/mysite/mysite/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Запрошена страница со списком статей
+Not Found: /
+Starting new HTTPS connection (1): o4505193330704384.ingest.sentry.io:443
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+/Users/user/PycharmProjects/Django homework/15/15_DatabasesAdvanced/mysite/shopapp/views.py changed, reloading.
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+Starting new HTTPS connection (1): o4505193330704384.ingest.sentry.io:443
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+Internal Server Error: /accounts/about-me/
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sentry_sdk/integrations/django/views.py", line 85, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/views/generic/base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/user/PycharmProjects/Django homework/15/15_DatabasesAdvanced/mysite/myauth/views.py", line 33, in post
+    form = ProfileUpdateForm(request.POST, request.FILES, instance=request.user.profile)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/utils/functional.py", line 268, in inner
+    return func(_wrapped, *args)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/db/models/fields/related_descriptors.py", line 463, in __get__
+    raise self.RelatedObjectDoesNotExist(
+django.contrib.auth.models.User.profile.RelatedObjectDoesNotExist: User has no profile.
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+Заказ создан
+Запрошена страница со списком статей
+Заказ создан
+Запрошена страница со списком статей
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+Not Found: /
+Starting new HTTPS connection (1): o4505193330704384.ingest.sentry.io:443
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+Not Found: /
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+Starting new HTTPS connection (2): o4505193330704384.ingest.sentry.io:443
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+/Users/user/PycharmProjects/django/mysite/mysite/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+/Users/user/PycharmProjects/django/mysite/app_news/models.py changed, reloading.
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+Заказ создан
+Запрошена страница со списком статей
+Заказ создан
+Запрошена страница со списком статей
+/Users/user/PycharmProjects/django/mysite/app_news/admin.py changed, reloading.
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+Starting new HTTPS connection (1): o4505193330704384.ingest.sentry.io:443
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+Заказ создан
+Запрошена страница со списком статей
+Starting new HTTPS connection (2): o4505193330704384.ingest.sentry.io:443
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+Заказ создан
+Запрошена страница со списком статей
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+/Users/user/PycharmProjects/django/mysite/app_news/models.py changed, reloading.
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+Заказ создан
+Запрошена страница со списком статей
+Заказ создан
+Запрошена страница со списком статей
+Starting new HTTPS connection (1): o4505193330704384.ingest.sentry.io:443
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+/Users/user/PycharmProjects/django/mysite/app_news/models.py changed, reloading.
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+/Users/user/PycharmProjects/django/mysite/mysite/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+Заказ создан
+Запрошена страница со списком статей
+Заказ создан
+Запрошена страница со списком статей
+/Users/user/PycharmProjects/django/mysite/app_news/views.py changed, reloading.
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+Starting new HTTPS connection (1): o4505193330704384.ingest.sentry.io:443
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+Not Found: /favicon.ico
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+Not Found: /apple-touch-icon.png
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon-precomposed.png
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+/Users/user/PycharmProjects/django/mysite/mysite/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+Заказ создан
+Запрошена страница со списком статей
+/Users/user/PycharmProjects/django/mysite/app_news/models.py changed, reloading.
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+Заказ создан
+Запрошена страница со списком статей
+Заказ создан
+Запрошена страница со списком статей
+Starting new HTTPS connection (1): o4505193330704384.ingest.sentry.io:443
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon.png
+Not Found: /favicon.ico
+Starting new HTTPS connection (2): o4505193330704384.ingest.sentry.io:443
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon.png
+Not Found: /favicon.ico
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+/Users/user/PycharmProjects/django/mysite/mysite/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+/Users/user/PycharmProjects/django/mysite/mysite/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+Starting new HTTPS connection (1): o4505193330704384.ingest.sentry.io:443
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+/Users/user/PycharmProjects/django/mysite/home_sale/models.py changed, reloading.
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+/Users/user/PycharmProjects/django/mysite/home_sale/models.py changed, reloading.
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+Заказ создан
+Запрошена страница со списком статей
+Заказ создан
+Запрошена страница со списком статей
+/Users/user/PycharmProjects/django/mysite/home_sale/admin.py changed, reloading.
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+Starting new HTTPS connection (1): o4505193330704384.ingest.sentry.io:443
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+Internal Server Error: /admin/home_sale/roomsquantity/add/
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sentry_sdk/integrations/django/views.py", line 85, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/contrib/admin/options.py", line 686, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/utils/decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/views/decorators/cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/contrib/admin/sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/contrib/admin/options.py", line 1890, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/utils/decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/contrib/admin/options.py", line 1750, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/contrib/admin/options.py", line 1808, in _changeform_view
+    self.log_addition(request, new_object, change_message)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/contrib/admin/options.py", line 924, in log_addition
+    object_repr=str(obj),
+TypeError: __str__ returned non-string (type int)
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+/Users/user/PycharmProjects/django/mysite/home_sale/models.py changed, reloading.
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+Заказ создан
+Запрошена страница со списком статей
+Starting new HTTPS connection (1): o4505193330704384.ingest.sentry.io:443
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+Starting new HTTPS connection (2): o4505193330704384.ingest.sentry.io:443
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+Not Found: /home_sale/houses_list
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+/Users/user/PycharmProjects/django/mysite/home_sale/views.py changed, reloading.
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+Starting new HTTPS connection (1): o4505193330704384.ingest.sentry.io:443
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+Заказ создан
+Запрошена страница со списком статей
+Заказ создан
+Запрошена страница со списком статей
+/Users/user/PycharmProjects/django/mysite/home_sale/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+Not Found: /home_sale/rss/latest/feed
+Starting new HTTPS connection (1): o4505193330704384.ingest.sentry.io:443
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+Not Found: /favicon.ico
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+Заказ создан
+Запрошена страница со списком статей
+/Users/user/PycharmProjects/django/mysite/home_sale/views.py changed, reloading.
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+Заказ создан
+Запрошена страница со списком статей
+Заказ создан
+Запрошена страница со списком статей
+Starting new HTTPS connection (1): o4505193330704384.ingest.sentry.io:443
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+/Users/user/PycharmProjects/django/mysite/home_sale/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+Starting new HTTPS connection (1): o4505193330704384.ingest.sentry.io:443
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+Internal Server Error: /home_sale/sitemap.xml
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sentry_sdk/integrations/django/views.py", line 85, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/contrib/sitemaps/views.py", line 34, in inner
+    response = func(request, *args, **kwargs)
+TypeError: sitemap() got an unexpected keyword argument 'sitemap'
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+Not Found: /home_sale/
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+Internal Server Error: /home_sale/sitemap.xml
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sentry_sdk/integrations/django/views.py", line 85, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/contrib/sitemaps/views.py", line 34, in inner
+    response = func(request, *args, **kwargs)
+TypeError: sitemap() got an unexpected keyword argument 'sitemap'
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+/Users/user/PycharmProjects/django/mysite/home_sale/views.py changed, reloading.
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+/Users/user/PycharmProjects/django/mysite/home_sale/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+Starting new HTTPS connection (1): o4505193330704384.ingest.sentry.io:443
+Internal Server Error: /home_sale/sitemap.xml
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sentry_sdk/integrations/django/views.py", line 85, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/contrib/sitemaps/views.py", line 34, in inner
+    response = func(request, *args, **kwargs)
+TypeError: sitemap() got an unexpected keyword argument 'sitemap'
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+Internal Server Error: /home_sale/sitemap.xml
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/sentry_sdk/integrations/django/views.py", line 85, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/django/contrib/sitemaps/views.py", line 34, in inner
+    response = func(request, *args, **kwargs)
+TypeError: sitemap() got an unexpected keyword argument 'sitemap'
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2
+/Users/user/PycharmProjects/django/mysite/home_sale/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Заказ создан
+Запрошена страница со списком статей
+Starting new HTTPS connection (1): o4505193330704384.ingest.sentry.io:443
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 41
+https://o4505193330704384.ingest.sentry.io:443 "POST /api/4505193552150528/envelope/ HTTP/1.1" 200 2

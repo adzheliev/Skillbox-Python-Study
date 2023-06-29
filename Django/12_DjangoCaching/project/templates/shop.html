@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% load i18n %}
+
+{% block content %}
+<h1>{% trans "Shops" %}</h1>
+    {% if shops %}
+        <div>
+            {% for shop in shops %}
+                <div>
+                    <p>
+                        {% trans "Name:" %} {{ shop.name }}
+                    </p>
+                </div>
+            {% endfor %}
+        </div>
+    {% else %}
+        <h3>{% trans "No shops yet" %}</h3>
+    {% endif %}
+{% endblock %}

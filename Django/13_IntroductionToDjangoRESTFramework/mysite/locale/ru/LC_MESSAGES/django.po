@@ -1,0 +1,150 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-06 10:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || "
+"(n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: app_pages/templates/app_pages/greetings.html:6
+msgid "What time is it?"
+msgstr "Который час?"
+
+#: app_pages/templates/app_pages/translation_example.html:6
+msgid "Our translation page title"
+msgstr "Наша переведённая страница"
+
+#: app_pages/templates/app_pages/translation_example.html:10
+msgid "Translated text"
+msgstr "Переведённый текст"
+
+#: app_pages/templates/app_pages/translation_example.html:22
+msgid "Welcome to our page"
+msgstr "Добро пожаловать на нашу страницу"
+
+#: app_pages/views.py:11
+#, python-format
+msgid "Hello there! Today is %(date)s %(time)s"
+msgstr "Привет! Сегодня %(date)s %(time)s"
+
+#: myauth/apps.py:8
+msgid "auth"
+msgstr "авторизация"
+
+#: myauth/models.py:18
+msgid "profile"
+msgstr "профиль"
+
+#: myauth/models.py:19
+msgid "profiles"
+msgstr "профили"
+
+#: myauth/models.py:20 shopapp/models.py:53
+msgid "user"
+msgstr "пользователь"
+
+#: myauth/models.py:21
+msgid "bio"
+msgstr "биография"
+
+#: myauth/models.py:22
+msgid "agreement_accepted"
+msgstr "соглашение принято"
+
+#: myauth/models.py:23
+msgid "avatar"
+msgstr "аватар"
+
+#: shopapp/apps.py:8
+msgid "shop"
+msgstr "магазин"
+
+#: shopapp/models.py:21 shopapp/models.py:54
+msgid "products"
+msgstr "продукты"
+
+#: shopapp/models.py:22 shopapp/models.py:45
+msgid "product"
+msgstr "продукт"
+
+#: shopapp/models.py:23
+msgid "name"
+msgstr "имя"
+
+#: shopapp/models.py:24 shopapp/models.py:47
+msgid "description"
+msgstr "описание"
+
+#: shopapp/models.py:25
+msgid "price"
+msgstr "цена"
+
+#: shopapp/models.py:26
+msgid "discount"
+msgstr "скидка"
+
+#: shopapp/models.py:27 shopapp/models.py:52
+msgid "created_at"
+msgstr "создано (дата)"
+
+#: shopapp/models.py:28
+msgid "archived"
+msgstr "архивировано"
+
+#: shopapp/models.py:29
+msgid "created_by"
+msgstr "создано (кем)"
+
+#: shopapp/models.py:30
+msgid "preview"
+msgstr "картинка"
+
+#: shopapp/models.py:43
+#, fuzzy
+#| msgid "products"
+msgid "product images"
+msgstr "продукты"
+
+#: shopapp/models.py:44
+#, fuzzy
+#| msgid "product"
+msgid "product image"
+msgstr "продукт"
+
+#: shopapp/models.py:46
+msgid "image"
+msgstr "изображение"
+
+#: shopapp/models.py:50
+msgid "delivery_address"
+msgstr "адрес доставки"
+
+#: shopapp/models.py:51
+msgid "promocode"
+msgstr "промокод"
+
+#: shopapp/models.py:55
+msgid "receipt"
+msgstr "файл"
+
+#: shopapp/models.py:58
+msgid "orders"
+msgstr "заказы"
+
+#: shopapp/models.py:59
+msgid "order"
+msgstr "заказ"

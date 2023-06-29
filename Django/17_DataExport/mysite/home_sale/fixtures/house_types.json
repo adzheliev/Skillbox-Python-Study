@@ -1,0 +1,44 @@
+[
+  {
+    "model": "home_sale.housetype",
+    "pk": 1,
+    "fields": {
+      "name": "Квартира"
+    }
+  },
+  {
+    "model": "home_sale.housetype",
+    "pk": 2,
+    "fields": {
+      "name": "Дом"
+    }
+  },
+  {
+    "model": "home_sale.housetype",
+    "pk": 3,
+    "fields": {
+      "name": "Таунхаус"
+    }
+  },
+  {
+    "model": "home_sale.housetype",
+    "pk": 4,
+    "fields": {
+      "name": "Комната"
+    }
+  },
+  {
+    "model": "home_sale.housetype",
+    "pk": 5,
+    "fields": {
+      "name": "Коммерческая недвижимость"
+    }
+  },
+  {
+    "model": "home_sale.housetype",
+    "pk": 6,
+    "fields": {
+      "name": "Заграничная недвижимость"
+    }
+  }
+]

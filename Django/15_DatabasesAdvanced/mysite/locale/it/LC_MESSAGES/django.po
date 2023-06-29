@@ -1,0 +1,148 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-06 10:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: app_pages/templates/app_pages/greetings.html:6
+msgid "What time is it?"
+msgstr "Che ora e'?"
+
+#: app_pages/templates/app_pages/translation_example.html:6
+msgid "Our translation page title"
+msgstr "La nostra traduzione della pagina principale"
+
+#: app_pages/templates/app_pages/translation_example.html:10
+msgid "Translated text"
+msgstr "Testo tradotto"
+
+#: app_pages/templates/app_pages/translation_example.html:22
+msgid "Welcome to our page"
+msgstr "Benvenuti sulla nostra pagina"
+
+#: app_pages/views.py:11
+#, python-format
+msgid "Hello there! Today is %(date)s %(time)s"
+msgstr "Ciao! Oggi e' %(date)s %(time)s"
+
+#: myauth/apps.py:8
+msgid "auth"
+msgstr "autorizzazione"
+
+#: myauth/models.py:18
+msgid "profile"
+msgstr "profilo"
+
+#: myauth/models.py:19
+msgid "profiles"
+msgstr "profili"
+
+#: myauth/models.py:20 shopapp/models.py:53
+msgid "user"
+msgstr "utente"
+
+#: myauth/models.py:21
+msgid "bio"
+msgstr "biografia"
+
+#: myauth/models.py:22
+msgid "agreement_accepted"
+msgstr "accordo accettato"
+
+#: myauth/models.py:23
+msgid "avatar"
+msgstr "avatar"
+
+#: shopapp/apps.py:8
+msgid "shop"
+msgstr "negozio"
+
+#: shopapp/models.py:21 shopapp/models.py:54
+msgid "products"
+msgstr "prodotti"
+
+#: shopapp/models.py:22 shopapp/models.py:45
+msgid "product"
+msgstr "prodotto"
+
+#: shopapp/models.py:23
+msgid "name"
+msgstr "nome"
+
+#: shopapp/models.py:24 shopapp/models.py:47
+msgid "description"
+msgstr "descrizione"
+
+#: shopapp/models.py:25
+msgid "price"
+msgstr "prezzo"
+
+#: shopapp/models.py:26
+msgid "discount"
+msgstr "sconto"
+
+#: shopapp/models.py:27 shopapp/models.py:52
+msgid "created_at"
+msgstr "creato il"
+
+#: shopapp/models.py:28
+msgid "archived"
+msgstr "archiviato"
+
+#: shopapp/models.py:29
+msgid "created_by"
+msgstr "creato da"
+
+#: shopapp/models.py:30
+msgid "preview"
+msgstr "preview"
+
+#: shopapp/models.py:43
+#, fuzzy
+#| msgid "products"
+msgid "product images"
+msgstr "prodotti"
+
+#: shopapp/models.py:44
+#, fuzzy
+#| msgid "product"
+msgid "product image"
+msgstr "prodotto"
+
+#: shopapp/models.py:46
+msgid "image"
+msgstr "immagine"
+
+#: shopapp/models.py:50
+msgid "delivery_address"
+msgstr "indirizzo di consegna"
+
+#: shopapp/models.py:51
+msgid "promocode"
+msgstr "codice promo"
+
+#: shopapp/models.py:55
+msgid "receipt"
+msgstr "file"
+
+#: shopapp/models.py:58
+msgid "orders"
+msgstr "ordini"
+
+#: shopapp/models.py:59
+msgid "order"
+msgstr "ordine"

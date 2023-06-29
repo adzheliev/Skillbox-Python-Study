@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>News</title>
+</head>
+<body>
+    <h1>News</h1>
+    {% if news %}
+        <div>
+            {% for new in news %}
+                <div>
+                    <p>{{ new.title }}</p>
+                    <p>{{ new.text }}</p>
+                    <br>
+                </div>
+            {% endfor %}
+        </div>
+    {% else %}
+        <h3>No news added yet</h3>
+    {% endif %}
+</body>
+</html>

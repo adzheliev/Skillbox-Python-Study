@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% load i18n %}
+{% load cache %}
+
+{% block content %}
+    <h1>{% trans "Home page" %}</h1>
+    <hr>
+
+    <p>{% trans "Balance:" %} {{ user.profile.balance }}</p>
+    <p>{% trans "Promo:" %} {{ user.profile.promo }}</p>
+    <p>{% trans "Offers:" %} {{ user.profile.offers }}</p>
+    {% cache 300 history %}
+        <p>{% trans "History:" %}
+            {% for order in user.profile.orders.all %}
+            <ul>
+                <li>
+                    {{ order }}
+                </li>
+            </ul>
+            {% endfor %}
+        </p>
+    {% endcache %}
+    <hr>
+
+    {% if user.is_authenticated %}
+        <a href="{% url 'logout' %}">{% trans "Logout" %}</a>
+    {% else %}
+        <a href="{% url 'login' %}">{% trans "Login" %}</a> |
+        <a href="{% url 'register' %}">{% trans "Register" %}</a>
+    {% endif %}
+{% endblock %}
